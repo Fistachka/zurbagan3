@@ -41,7 +41,7 @@ Previous lesson:
 stolbitsa.com/fistachka/vyuga4<br><br>
 
 ![6](https://github.com/user-attachments/assets/afafd072-5afa-4045-8495-8197e7926276)
-![5]("https://github.com/user-attachments/assets/238689a6-cd88-4cee-8f60-3be63a161e5b)
+![5](https://github.com/user-attachments/assets/238689a6-cd88-4cee-8f60-3be63a161e5b)
 
 
 
