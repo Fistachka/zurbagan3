@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zurbagan3</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="Fistachka" repo="zurbagan4"/>
   <readme>
     <ru>b487e6832c6955845ec395e42ec8caa36b47a3e277ad1b94252484253e2b3edd</ru>
@@ -37,9 +37,6 @@
       <note number="5" values="18" ticks="575" durationTicks="46" ppq="96" velocity="0.704"/>
       <note number="6" values="7" ticks="625" durationTicks="117" ppq="96" velocity="0.787"/>
       <note number="7" values="6" ticks="936" durationTicks="49" ppq="96" velocity="0.754"/>
-      <note number="8" values="7" ticks="985" durationTicks="48" ppq="96" velocity="0.699"/>
-      <note number="9" values="5" ticks="1034" durationTicks="164" ppq="96" velocity="0.78"/>
-      <note number="10" values="7" ticks="1206" durationTicks="95" ppq="96" velocity="0.644"/>
     </notes>
   </exercise>
   <exercise number="3">
