@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zurbagan3</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="Fistachka" repo="zurbagan2"/>
+  <version>v1.0.1</version>
+  <next number="1" owner="Fistachka" repo="zurbagan4"/>
   <readme>
-    <ru>30a778214ffb22f7c6efef1d9593ca47127bfa22a3c4e3e771bb58e8234ae6c8</ru>
-    <en>9a6c17d7ad682a836be77bbe7528785a906bf1af68c3b3b9ee957474215d0ae5</en>
+    <ru>b487e6832c6955845ec395e42ec8caa36b47a3e277ad1b94252484253e2b3edd</ru>
+    <en>73d25f3f3b9f072f225a8ff5aa49bf90f2dcde45b18e6c87b881e0609957001e</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
