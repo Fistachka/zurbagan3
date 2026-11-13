@@ -4,7 +4,7 @@
 ![6](https://github.com/user-attachments/assets/afafd072-5afa-4045-8495-8197e7926276)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/zwNzXwK97Fg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cerpvMxuH7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AsU5E5TnjwI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Сгинет ночь, и день придет иной,
 Как волна приходит за волной.
@@ -25,7 +25,7 @@ stolbitsa.com/fistachka/zurbagan2<br><br>
 ![6](https://github.com/user-attachments/assets/afafd072-5afa-4045-8495-8197e7926276)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/K52fEoEarnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2YMQ5F6rmz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRhHKlKgoic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Zasypaet sinij Zurbagan
 A za gorizontom uragan
